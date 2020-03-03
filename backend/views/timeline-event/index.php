@@ -5,7 +5,7 @@
  * @var $model \common\models\TimelineEvent
  * @var $dataProvider \yii\data\ActiveDataProvider
  */
-$this->title = Yii::t('backend', 'Application timeline');
+$this->title = Yii::t('backend', 'Bacanagem');
 $icons = [
     'user'=>'<i class="fa fa-user bg-blue"></i>'
 ];
